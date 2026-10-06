@@ -40,7 +40,7 @@ export default function Welcome() {
 
       <div className="relative z-10 mx-auto flex w-full max-w-5xl flex-1 flex-col items-center justify-center gap-8 px-4 py-10 text-center">
         <div className="slide-up">
-          <div className="mb-2 text-xs font-black tracking-[0.3em] text-muted">FINSTACK IQ PRESENTS</div>
+          <div className="mb-2 text-xs font-black tracking-[0.3em] text-muted">FinStack IQ presents</div>
           <h1 className="font-display text-6xl leading-none text-lime drop-shadow-[0_6px_0_#4b7d00] sm:text-8xl">
             MONEY
             <br />

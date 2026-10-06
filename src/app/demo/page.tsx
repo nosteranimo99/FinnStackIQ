@@ -39,7 +39,7 @@ export default function DemoPage() {
       </Link>
       <div className="grid items-center gap-6 md:grid-cols-[1fr_auto]">
         <div>
-          <div className="text-xs font-black tracking-[0.3em] text-gold">FINSTACK IQ · INVESTOR DEMO</div>
+          <div className="text-xs font-black tracking-[0.3em] text-gold">FinStack IQ · Investor demo</div>
           <h1 className="font-display text-4xl leading-tight sm:text-5xl">
             A FINANCIAL-LIFE GAME, <span className="text-lime">NOT A QUIZ.</span>
           </h1>
